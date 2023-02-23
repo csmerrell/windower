@@ -1,0 +1,97 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <auto>true</auto>
+        <language>English</language>
+        <sets>
+            <1>
+                <1>Valaineral</1>
+                <2>Rainemard</2>
+                <3>Joachim</3>
+                <4>Qultada</4>
+                <5>King of Hearts</5>
+            </1>
+            <ambu>
+                <1>Valaineral</1>
+                <2>Mayakov</2>
+                <3>Matsui-P</3>
+                <4>Joachim</4>
+                <5>Arciela II</5>
+            </ambu>
+            <apex>
+                <1>Joachim</1>
+                <2>Uka Totlihn</2>
+                <3>Matsui-P</3>
+                <4>Yoran-Oran (UC)</4>
+            </apex>
+            <basic>
+                <1>Valaineral</1>
+                <2>Matsui-P</2>
+                <3>King of Hearts</3>
+                <4>Lilisette II</4>
+                <5>Mayakov</5>
+            </basic>
+            <blu-basic>
+                <1>Valaineral</1>
+                <2>Rainemard</2>
+                <3>Joachim</3>
+                <4>Qultada</4>
+                <5>King of Hearts</5>
+            </blu-basic>
+            <default>
+                <1>Valaineral</1>
+                <2>Mihli Aliapoh</2>
+                <3>Tenzen</3>
+                <4>Adelheid</4>
+                <5>Joachim</5>
+            </default>
+            <di>
+                <1>Valaineral</1>
+                <2>King of Hearts</2>
+                <3>Joachim</3>
+                <4>Lilisette II</4>
+            </di>
+            <farm>
+                <1>Joachim</1>
+                <2>Matsui-P</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Uka Totlihn</4>
+            </farm>
+            <hilt_farm>
+                <1>Joachim</1>
+                <2>Yoran-Oran (UC)</2>
+                <3>Qultada</3>
+                <4>Koru-Moru</4>
+                <5>Amchuchu</5>
+            </hilt_farm>
+            <learning>
+                <1>Joachim</1>
+                <2>Koru-Moru</2>
+                <3>Sakura</3>
+                <4>Yoran-Oran (UC)</4>
+            </learning>
+            <leveling>
+                <1>Valaineral</1>
+                <2>King of Hearts</2>
+                <3>Rainemard</3>
+                <4>Mayakov</4>
+                <5>Qultada</5>
+            </leveling>
+            <odyssey>
+                <1>Joachim</1>
+                <2>Matsui-P</2>
+                <3>Yoran-Oran (UC)</3>
+                <4>Mayakov</4>
+            </odyssey>
+            <vw>
+                <1>Sylvie (UC)</1>
+                <2>Valaineral</2>
+            </vw>
+        </sets>
+        <wait>
+            <aftercast>3</aftercast>
+            <retr>1.25</retr>
+            <retrall>3</retrall>
+        </wait>
+    </global>
+</settings>

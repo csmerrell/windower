@@ -1,0 +1,24 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <AutoDrop>false</AutoDrop>
+        <AutoStack>true</AutoStack>
+        <Delay>0</Delay>
+        <Drop />
+        <Lot />
+        <Pass />
+        <Verbose>false</Verbose>
+    </global>
+    <hiltrude>
+        <AutoDrop>true</AutoDrop>
+        <Drop>Stone,Beetle Jaw,Garudite,Felicifruit,Walnut,Thunder Geode,Pamamas,Soil Geode,Arrowwood Log,Gold Carp,Leviatite,Shivite,Saruta Cotton,Aqua Geode,Rusty Bucket,Flint Stone,Black Eel,Eschalixir,Snow Geode,Ifritite,Lamp Marimo,Sheep Tooth,Crayfish,Pine Nuts,Earth Spirit,Light Geode,Chestnut,Carbite,Copper Frog,Gugru Tuna,Moko Grass,Walnut Log,King Locust,Loc. Elutriator,Cobalt Jellyfish,Breeze Geode,Eggplant,Elshimo Newt,Dryad Root,Lauan Log,Flame Geode,Black Prawn,Faerie Apple,Ramuite,Rolanberry,Red Rose,Lesser Chigoe,Dogwood Log,Fenrite,Burdock,Shadow Geode,Crab Shell,Igneous Rock,Grain Seeds,Contortopus,Titanite</Drop>
+    </hiltrude>
+    <kasnia>
+        <AutoDrop>true</AutoDrop>
+        <Drop>Garudite,Cone Calamary,El. Pachira Fruit,Igneous Rock,Soil Geode,Arrowwood Log,Gold Carp,Leviatite,Crescent Fish,Saruta Cotton,Napa,Fiend Blood,Fish Bones,Lamp Marimo,Earth Spirit,Moorish Idol,Chestnut,Red Moko Grass,Walnut Log,King Locust,Bat Fang,Shadow Geode,Crawler Cocoon,Flame Geode,Acorn,Faerie Apple,Bird Egg,Red Rose,Brass Loach,Dogwood Log,Cobalt Jellyfish,Carbite,Contortopus,Stone,Snapping Mole,Beetle Jaw,Copper Frog,Felicifruit,Water Lily,Thunder Geode,Pamamas,Black Prawn,Auric Sand,Beetle Shell,Pebble,Win. Tea Leaves,Mushrm. Locust,Shivite,Yagudo Cherry,Zebra Eel,Aqua Geode,Ash Log,Flint Stone,Vegetable Seeds,Wijnruit,Woozyshroom,Fresh Marjoram,Eschalixir,Fenrite,Snow Geode,Titanite,Bluetail,Sheep Tooth,Pine Nuts,Walnut,Ifritite,Bat Wing,Breeze Geode,Crayfish,Rolanberry,Gugru Tuna,Scorpion Shell,Rusty Bucket,Yayinbaligi,Insect Wing,Bone Chip,Dryad Root,Eggplant,Fresh Mugwort,Bird Feather,Pumice Stone,Red Terrapin,Lizard Tail,Black Eel,Ramuite,Lesser Chigoe,Lauan Log,Loc. Elutriator,Blk. Tiger Fang,Watermelon,Burdock,Light Geode,Crab Shell,Butterpear,Grain Seeds,Elshimo Newt,Gigas Socks</Drop>
+    </kasnia>
+    <otmar>
+        <AutoDrop>true</AutoDrop>
+        <Drop>Stone,Beetle Jaw,Garudite,Felicifruit,Walnut,Thunder Geode,Pamamas,Soil Geode,Arrowwood Log,Gold Carp,Leviatite,Shivite,Saruta Cotton,Aqua Geode,Rusty Bucket,Flint Stone,Black Eel,Eschalixir,Snow Geode,Ifritite,Lamp Marimo,Sheep Tooth,Crayfish,Pine Nuts,Earth Spirit,Light Geode,Chestnut,Carbite,Copper Frog,Gugru Tuna,Moko Grass,Walnut Log,King Locust,Loc. Elutriator,Cobalt Jellyfish,Breeze Geode,Eggplant,Elshimo Newt,Dryad Root,Lauan Log,Flame Geode,Black Prawn,Faerie Apple,Ramuite,Rolanberry,Red Rose,Lesser Chigoe,Dogwood Log,Fenrite,Burdock,Shadow Geode,Crab Shell,Igneous Rock,Grain Seeds,Contortopus,Titanite</Drop>
+    </otmar>
+</settings>

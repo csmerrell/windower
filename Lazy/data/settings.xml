@@ -1,0 +1,15 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <autotarget>true</autotarget>
+        <spell></spell>
+        <spell_active>false</spell_active>
+        <target />
+        <weaponskill>Savage Blade</weaponskill>
+        <weaponskill_active>true</weaponskill_active>
+    </global>
+    <baelfire>
+        <autotarget>true</autotarget>
+        <target>apex eft</target>
+    </baelfire>
+</settings>

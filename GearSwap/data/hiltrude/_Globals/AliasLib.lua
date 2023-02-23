@@ -1,0 +1,18 @@
+AliasLib = {}
+
+AliasLib["Fire4"] = "Fire IV"
+AliasLib["Fire5"] = "Fire V"
+AliasLib["Water4"] = "Water IV"
+AliasLib["Water5"] = "Water V"
+AliasLib["Thunder4"] = "Thunder IV"
+AliasLib["Thunder5"] = "Thunder V"
+AliasLib["Stone4"] = "Stone IV"
+AliasLib["Stone5"] = "Stone V"
+AliasLib["Aero4"] = "Aero IV"
+AliasLib["Aero5"] = "Aero V"
+AliasLib["Blizzard4"] = "Blizzard IV"
+AliasLib["Blizzard5"] = "Blizzard V"
+AliasLib["Sleep2"] = "Sleep II"
+AliasLib["Raise3"] = "Raise III"
+AliasLib["Reraise3"] = "Reraise III"
+AliasLib["Regen5"] = "Regen V"

@@ -1,0 +1,131 @@
+Organizer loaded at Mon Jan 30 10:13:16 2023
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding inventory to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe7 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding satchel to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe8 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe6 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe5 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding sack to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding safe2 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe3 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe4 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding safe to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding storage to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding locker to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding wardrobe2 to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding case to the pull list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding storage to the push list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding locker to the push list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding safe to the push list
+2023-01-30 10:13:16| Organizer [VERBOSE] Adding safe2 to the push list
+2023-01-30 10:13:18| Organizer [VERBOSE] Freezing satchel.
+2023-01-30 10:14:44| Organizer [VERBOSE] Getting!
+2023-01-30 10:14:44| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:14:44| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:14:44| Organizer [VERBOSE] Got 2 item(s), and failed getting 0 item(s)
+2023-01-30 10:15:27| Organizer [MSG] Starting...
+2023-01-30 10:15:27| Organizer [VERBOSE] Getting!
+2023-01-30 10:15:27| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2023-01-30 10:15:27| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:15:27| Organizer [MSG] Done! - 0 items matched and 0 items missing!
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing safe.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing locker.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing satchel.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing sack.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing case.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing inventory.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing wardrobe.
+2023-01-30 10:16:07| Organizer [VERBOSE] Freezing wardrobe2.
+2023-01-30 10:16:24| Organizer [MSG] Starting...
+2023-01-30 10:16:24| Organizer [VERBOSE] Getting!
+2023-01-30 10:16:24| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2023-01-30 10:16:24| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:16:24| Organizer [MSG] Done! - 0 items matched and 0 items missing!
+2023-01-30 10:16:30| Organizer [MSG] Starting...
+2023-01-30 10:16:30| Organizer [VERBOSE] Getting!
+2023-01-30 10:16:30| Organizer [VERBOSE] Skipping item: (Frayed Sack (M2)) - can not be pushed to Satchel) 
+2023-01-30 10:16:30| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:16:30| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:16:30| Organizer [VERBOSE] Got 3 item(s), and failed getting 0 item(s)
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Holy Sword) from Inventory 20 to Safe 39)
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Holy Sword) from Inventory 19 to Safe 40)
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Frayed Sack (M2)) from Inventory 18 to Safe 41)
+2023-01-30 10:16:31| Organizer [VERBOSE] Remainder: 3 Current: 17
+2023-01-30 10:16:31| Organizer [VERBOSE] Getting!
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Frayed Sack (M2)) from Safe 42 to Inventory 17)
+2023-01-30 10:16:31| Organizer [VERBOSE] Skipping item: (Frayed Sack (M2)) - can not be pushed to Satchel) 
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Holy Sword) from Safe 41 to Inventory 18)
+2023-01-30 10:16:31| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:16:31| Organizer [VERBOSE] Skipping item: (Holy Sword) - can not be pushed to Satchel) 
+2023-01-30 10:16:31| Organizer [VERBOSE] Got 3 item(s), and failed getting 0 item(s)
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Frayed Sack (M2)) from Inventory 19 to Safe 40)
+2023-01-30 10:16:31| Organizer [VERBOSE] Moving item! (Holy Sword) from Inventory 18 to Safe 41)
+2023-01-30 10:16:31| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:16:31| Organizer [MSG] Done! - 371 items matched and 3 items missing!
+2023-01-30 10:16:31| Organizer [VERBOSE] Item Missing: frayed sack (m2) 
+2023-01-30 10:16:31| Organizer [VERBOSE] Item Missing: holy sword 
+2023-01-30 10:16:31| Organizer [VERBOSE] Item Missing: holy sword 
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing safe.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing locker.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing satchel.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing sack.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing case.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing inventory.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing wardrobe.
+2023-01-30 10:17:44| Organizer [VERBOSE] Freezing wardrobe2.
+2023-01-30 10:17:45| Organizer [MSG] Starting...
+2023-01-30 10:17:45| Organizer [VERBOSE] Getting!
+2023-01-30 10:17:45| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2023-01-30 10:17:45| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:17:45| Organizer [MSG] Done! - 374 items matched and 0 items missing!
+2023-01-30 10:17:59| Organizer [MSG] Starting...
+2023-01-30 10:17:59| Organizer [VERBOSE] Getting!
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Frayed Sack (Pul)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LS+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LT+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LO+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Got 4 item(s), and failed getting 0 item(s)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LO+1)) from Inventory 21 to Safe 42)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LT+1)) from Inventory 20 to Safe 43)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LS+1)) from Inventory 19 to Safe 44)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Frayed Sack (Pul)) from Inventory 18 to Safe 45)
+2023-01-30 10:17:59| Organizer [VERBOSE] Remainder: 4 Current: 17
+2023-01-30 10:17:59| Organizer [VERBOSE] Getting!
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Frayed Sack (Pul)) from Safe 46 to Inventory 17)
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Frayed Sack (Pul)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LS+1)) from Safe 45 to Inventory 18)
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LS+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LT+1)) from Safe 44 to Inventory 19)
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LT+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LO+1)) from Safe 43 to Inventory 20)
+2023-01-30 10:17:59| Organizer [VERBOSE] Skipping item: (Worn Sack (LO+1)) - can not be pushed to Satchel) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Got 4 item(s), and failed getting 0 item(s)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Frayed Sack (Pul)) from Inventory 21 to Safe 42)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LS+1)) from Inventory 20 to Safe 43)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LT+1)) from Inventory 19 to Safe 44)
+2023-01-30 10:17:59| Organizer [VERBOSE] Moving item! (Worn Sack (LO+1)) from Inventory 18 to Safe 45)
+2023-01-30 10:17:59| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:17:59| Organizer [MSG] Done! - 370 items matched and 4 items missing!
+2023-01-30 10:17:59| Organizer [VERBOSE] Item Missing: frayed sack (pul) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Item Missing: worn sack (ls+1) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Item Missing: worn sack (lt+1) 
+2023-01-30 10:17:59| Organizer [VERBOSE] Item Missing: worn sack (lo+1) 
+2023-01-30 10:21:49| Organizer [MSG] Starting...
+2023-01-30 10:21:49| Organizer [VERBOSE] Getting!
+2023-01-30 10:21:49| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2023-01-30 10:21:49| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:21:49| Organizer [MSG] Done! - 0 items matched and 0 items missing!
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing safe.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing locker.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing satchel.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing sack.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing case.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing inventory.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing wardrobe.
+2023-01-30 10:22:00| Organizer [VERBOSE] Freezing wardrobe2.
+2023-01-30 10:22:10| Organizer [MSG] Starting...
+2023-01-30 10:22:10| Organizer [VERBOSE] Getting!
+2023-01-30 10:22:10| Organizer [VERBOSE] Got 0 item(s), and failed getting 0 item(s)
+2023-01-30 10:22:10| Organizer [VERBOSE] No remainder, so we found everything we were looking for!
+2023-01-30 10:22:10| Organizer [MSG] Done! - 374 items matched and 0 items missing!
